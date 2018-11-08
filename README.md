@@ -6,4 +6,4 @@ Using ggplot2, tidyquant, gganimate, gifski, and magick to animate the price and
 
 ![](goog_animated.gif)
 
-Inspired by [Animation Composition](https://github.com/thomasp85/gganimate/wiki/Animation-Composition) by [@thomasp85](https://github.com/thomasp85)
+Inspired by [Animation Composition](https://github.com/thomasp85/gganimate/wiki/Animation-Composition) by [@thomasp85](https://github.com/thomasp85) and blog posts on [Reproduceable Finance](http://www.reproduciblefinance.com/) by Jonathan Regenstein
